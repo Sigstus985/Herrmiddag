@@ -1,0 +1,32 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+
+nav{
+    display: flex;
+    flex-direction: column;
+    padding-block: 5px;
+    background-color: antiquewhite;
+    position: sticky;
+    top: 0px;
+}
+
+.title{
+    font-size: 2.2rem;
+    text-align: center;
+    font-family: "Imperial Script", serif;
+
+}
+
+ul{
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    font-size: 1.3rem;
+    font-family: "Imperial Script", serif;
+}
+
+a{
+    color: black;
+}

@@ -1,9 +1,16 @@
-import logo from './logo.svg';
+import React from 'react';
 import './App.css';
+import Header from './components/header/header';
+import Hero from './components/hero/hero';
+import Main from './components/main/main';
 
-function App() {
+const App = () => {
   return (
-    <h1>CRAAZY HAMBORGESA</h1>
+    <div>
+      <Header></Header>
+      <Hero></Hero>
+      <Main></Main>
+    </div>
   );
 }
 
