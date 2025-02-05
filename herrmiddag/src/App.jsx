@@ -5,6 +5,8 @@ import Hero from './components/hero/hero';
 import Main from './components/main/main';
 
 const App = () => {
+  console.log("hello")
+
   return (
     <div>
       <Header></Header>

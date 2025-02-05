@@ -1,0 +1,17 @@
+main {
+	text-align: center;
+}
+
+h2 {
+	font-family: "Imperial Script";
+	font-size: 2.5rem;
+}
+
+h3{
+    font-family: "Imperial Script";
+    font-size: 2rem;
+}
+
+section {
+	padding: 20px 15px;
+}

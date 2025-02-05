@@ -1,12 +1,7 @@
-.background{
+.hero{
     background-image: url("https://www.rotary-ribi.org/upimages/PageMainPics/Gentlemen's%20Evening%20(6).jpg");
     background-position: center;
     background-size: cover;
-    
-}
-
-.hero{
-    
     color: antiquewhite;
     padding: 20px 15px;
     text-align: center;
@@ -18,8 +13,9 @@
     text-shadow: 0px 1px 2px rgb(0 0 0 / 100%);
 }
 
-p{
+.heroP{
     font-family: "Tangerine";
-    font-size: 1.7rem;
+    font-size: 1.6rem;
+    font-weight: 700;
     text-shadow: 0px 1px 2px rgb(0 0 0 / 100%);
 }
