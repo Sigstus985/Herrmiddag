@@ -1,26 +1,9 @@
 .meny{
-    padding-inline: 15%;
+    text-align: center;
 }
 
-.maträtt{
-    font-size: 1.7rem;
-    font-weight: 700;
 
-}
 
-.meny .rätt:not(:nth-child(3)) {
+.meny .rätt:not(:nth-child(1)) {
     margin-top: 40px;
-
-}
-
-
-.beskrivning{
-    font-size: 1.4rem;
-}
-
-.linje{
-    max-width: 100%;
-    border: solid black 0.5px;
-    border-radius: 99%;
-    margin: 20px;
 }
