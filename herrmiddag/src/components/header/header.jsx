@@ -8,7 +8,7 @@ const Header = () => {
 			<h1 className="title" id="title">
 				<a href="#hero">Herrmiddag</a>
 			</h1>
-			<ul>
+			<ul className="links">
 				<li>
 					<a href="#meny">Meny</a>
 				</li>

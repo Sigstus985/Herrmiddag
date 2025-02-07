@@ -7,7 +7,7 @@ const Hero = () => {
 			<h2 className="välkomst">Välkommen!</h2>
 			<p className="heroP">
 				Du, å ärade kamrat, är varmt välkommen på herrmiddag i det Lovénska
-				residenset den 22:a februari 2025.
+				residenset den 22:a februari 2025
 			</p>
 			<p className="heroP">
 				På denna hemsida finner du all information du behöver inför det kommande
