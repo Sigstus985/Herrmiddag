@@ -33,6 +33,8 @@ nav {
 a {
     transition-duration: 0.3s;
 	color: black;
+	text-decoration-line: underline;
+	text-decoration-thickness: 1px;
 }
 
 @media (min-width: 400px){
