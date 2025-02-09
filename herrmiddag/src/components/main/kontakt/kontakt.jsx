@@ -8,8 +8,8 @@ const Kontakt = () => {
 			<div className="line">
 				<h3>Kontakt</h3>
 				<p>
-					Värden nås enklast via sin direktmeddelande på Instagram eller
-					Discord, för brådskande ärenden är telefonnummret 076-714-94-71
+					Värden nås enklast via direktmeddelande på Instagram eller Discord,
+					för brådskande ärenden är telefonnummret 076-714-94-71
 				</p>
 				<h3>Gällande dryck</h3>
 				<p>
@@ -33,8 +33,8 @@ const Kontakt = () => {
 				</p>
 				<h3>Gällande brädspel</h3>
 				<p>
-					Värden har tillgång till ett bräd bibliotek av brädspel, men om gästen
-					önskar medtaga
+					Värden har tillgång till ett brett brädspelsbibliotek, men om en vet
+					med sig att denne gärna vill spela ett specifikt spel får denne hemskt gärna ta med det!
 				</p>
 				<h3>Kom uppklädd!</h3>
 				<p>
