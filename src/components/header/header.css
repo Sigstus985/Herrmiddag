@@ -1,0 +1,56 @@
+:root{
+    --shadow: #2d2b2b4a;
+}
+
+nav {
+	display: flex;
+	flex-direction: column;
+	padding-block: 5px;
+	background-color: antiquewhite;
+	position: sticky;
+	top: 0px;
+	min-height: 75px;
+	-webkit-box-shadow: 0px 4px 5px 0px var(--shadow);
+	-moz-box-shadow: 0px 4px 5px 0px var(--shadow);
+	box-shadow: 0px 4px 5px 0px var(--shadow);
+}
+
+.title {
+	font-size: 2.2rem;
+	text-align: center;
+    transition-duration: 3ms;
+}
+
+.links {
+	display: flex;
+	justify-content: space-evenly;
+	list-style-type: none;
+	font-size: 1.3rem;
+	font-family: "Imperial Script", serif;
+    transition-duration: 0.3s;
+}
+
+a {
+    transition-duration: 0.3s;
+	color: black;
+	text-decoration-line: underline;
+	text-decoration-thickness: 1px;
+}
+
+@media (min-width: 400px){
+	.title{
+        font-size: 2.5rem;
+    }
+    .links{
+        font-size: 1.8rem;
+    }
+}
+
+@media (min-width: 800px){
+	.title{
+        font-size: 3.5rem;
+    }
+    .links{
+        font-size: 2.5rem;
+    }
+}
