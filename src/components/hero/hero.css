@@ -1,0 +1,51 @@
+.hero{
+    background-image: url("https://www.rotary-ribi.org/upimages/PageMainPics/Gentlemen's%20Evening%20(6).jpg");
+    background-position: center;
+    background-size: cover;
+    color: antiquewhite;
+    padding: 20px 15px;
+    text-align: center;
+    background-repeat: no-repeat;
+}
+
+.välkomst{
+    font-family: "Imperial Script";
+    font-size: 3rem;
+    transition-duration: 0.3s;
+    text-shadow: 0px 1px 2px rgb(0 0 0 / 100%);
+}
+
+.heroP{
+    font-family: "Tangerine";
+    font-size: 1.6rem;
+    font-weight: 700;
+    transition-duration: 0.3s;
+    text-shadow: 0px 1px 2px rgb(0 0 0 / 100%);
+}
+
+@media (min-width: 400px){
+	.välkomst{
+        font-size: 3.5rem;
+    }
+    .heroP{
+        font-size: 1.8rem;
+    }
+    .hero{
+        background-size: cover;
+        height: 100%;
+        padding-block: 15% 15%;
+    }
+}
+
+@media (min-width: 800px){
+	.välkomst{
+        font-size: 5rem;
+    }
+    .heroP{
+        font-size: 2.5rem;
+    }
+    .hero{
+        background-size: cover;
+
+    }
+}
