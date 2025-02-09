@@ -1,0 +1,9 @@
+.meny{
+    text-align: center;
+}
+
+
+
+.meny .rätt:not(:nth-child(1)) {
+    margin-top: 40px;
+}
