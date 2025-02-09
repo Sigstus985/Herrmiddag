@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/Herrmiddag/static/css/main.f8e961ee.css",
+    "main.css": "/Herrmiddag/static/css/main.b50ab89b.css",
     "main.js": "/Herrmiddag/static/js/main.979370e6.js",
     "static/js/453.299e9ccc.chunk.js": "/Herrmiddag/static/js/453.299e9ccc.chunk.js",
     "index.html": "/Herrmiddag/index.html",
-    "main.f8e961ee.css.map": "/Herrmiddag/static/css/main.f8e961ee.css.map",
+    "main.b50ab89b.css.map": "/Herrmiddag/static/css/main.b50ab89b.css.map",
     "main.979370e6.js.map": "/Herrmiddag/static/js/main.979370e6.js.map",
     "453.299e9ccc.chunk.js.map": "/Herrmiddag/static/js/453.299e9ccc.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f8e961ee.css",
+    "static/css/main.b50ab89b.css",
     "static/js/main.979370e6.js"
   ]
 }
