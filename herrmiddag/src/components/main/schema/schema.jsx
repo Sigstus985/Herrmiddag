@@ -8,7 +8,7 @@ const Schema = () => {
             <div className="line">
                 <h3>18:00-18:30</h3>
                 <h4>Ankomst & Mingel</h4>
-                <p>Ni välkomnas hem till värden från och med 18:00, alkoholfritt bubbel kommer finnas på plats</p>
+                <p>Ni välkomnas hem till värden från och med 18:00, alkoholfri fördrink kommer finnas på plats</p>
                 <h3>18:30</h3>
                 <h4>Entré & Kviss</h4>
                 <p>Kvällens förrätt inmundigas i samband med en lättsam kviss med fint pris</p>

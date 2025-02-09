@@ -58,3 +58,9 @@ h2 {
 		transform: rotate(360deg);
 	}
 }
+
+@media (min-width: 800px) {
+	html{
+		scroll-padding-top: 120px;
+	}
+}
